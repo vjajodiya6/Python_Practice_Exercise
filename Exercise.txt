@@ -1,0 +1,9 @@
+Que 1: Write a program to get a number from user and tell either it is Even or Odd.
+	And also tell that the number is a multiple of 4 if it is, if it is not do not print any message.
+
+Que 2: Write a program to get input from user asking his/her name and age in 'name' and 'age'.
+	And also print that year, in which user will be of 100 years.
+
+Que 3: Write a program to print first 10 even numbers.
+
+Que 4: Write a program to find sum of all multiplies of 3 and 5 between 1 to 1000
