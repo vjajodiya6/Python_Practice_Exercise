@@ -1,0 +1,9 @@
+Que 5: Take a list and ask user to enter the numbers in the list,
+ 	then add all the numbers which are multiple of 5 into a new list.
+
+Que 6: Take a number from user and tell all the divisor of that number.
+
+Que 7: Take two list and generate random numbers into them,
+	 then print all the common numbers of that lists into a new list.
+
+Que 8: Take a word from user and tell either it is Palindrome or Not Palindrome.
